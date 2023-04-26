@@ -1,5 +1,5 @@
 ﻿
-string url = "https://localhost:7025/BatchPayment/RunBatch/?includeDateFilters=True";
+string url = "https://dev-app.bridgestone.co.za/BatchPayment/RunBatch/?includeDateFilters=True";
 var request = new HttpRequestMessage(HttpMethod.Post, url);
 
 try
