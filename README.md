@@ -2,17 +2,15 @@
 
 This application is responsible to trigger the batch payment.
 
+![batch-payments-console.png](docs/batch-payments-console.png)
+
 <img src="https://img.shields.io/badge/branch-env%2Fproduction-blue"/>
 
 The `production` branch contains the Live environment
 
 <img src="https://img.shields.io/badge/branch-env%2Fdevelopment-blue"/>
 
-The `development` branch is used for th QA environment
-
-<img src="https://img.shields.io/badge/branch-env%2Fstaging-blue"/>
-
-Merge changes from the feature branches to the `staging` branch that will later be merged with the QA and Live environment
+The `development` branch is used for th QA environment / testing
 
 #
 
