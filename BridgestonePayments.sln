@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{E0755E22-4A61-420B-BE67-56B07F4FAEB4}"
+	ProjectSection(SolutionItems) = preProject
+		docs\batch-payments-console.png = docs\batch-payments-console.png
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DD38F043-B4BA-4128-9A87-A2B4403FE2DC}"
 EndProject
